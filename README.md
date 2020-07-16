@@ -1,2 +1,2 @@
 # Trails
-Trails for BeatSaber on quest
+Trails for BeatSaber 1.10 on quest
