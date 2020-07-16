@@ -1,2 +1,2 @@
-# trails
-trails for BeatSaber on quest
+# Trails
+Trails for BeatSaber on quest
